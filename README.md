@@ -11,3 +11,5 @@
 - Fast Ranger мало хп, много урона. Стоимость - 50 золота
 - Slow Ranger средне хп, средне урона. Стоимость - 30 золота.
 
+Игра
+https://gamingproof.github.io/index.html
